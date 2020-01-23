@@ -1,0 +1,53 @@
+
+@media (max-width: 600px) {
+    main {
+        width: 100%       
+    }
+    body {
+        margin: 0px;
+      }
+      
+      header {
+        background-color: rgb(255, 51, 0);
+        width: 100%;
+        height: 70px;
+      }
+      
+      ul {
+        display: flex;
+        list-style-type: none;
+        font-size: 20px;
+      }
+      
+      li {
+        margin: 20px;
+        font-family: Arial;
+      }
+      
+      #title {
+        margin-right: 1.5em;
+      }
+      a {
+          margin-left: 2em;
+      }
+      
+      
+      li a {
+       color: yellow;
+       text-decoration: none; 
+        
+      }
+      
+      li a:hover {
+        text-decoration: underline;
+        color: violet;
+        
+        
+      }
+}
+
+@media (min-width: 768px) {
+    main {
+            width: 100%
+    }
+}
