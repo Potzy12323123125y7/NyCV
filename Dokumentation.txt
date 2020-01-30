@@ -2,5 +2,5 @@ Dag 1:
 Jag gjorde min "to do" list i github. Sedan när jag var klar med det så påbörjade arbetet på projektet. 
 Jag hann med att göra lite media queries på mobilhemsidan och jag gjorde mallen för min navbar. 
 
-Dag 2: Jag utvecklade min "to do" list lite grann. 
-
+Dag 2: Jag utvecklade min "to do" list lite grann. Sedan tänkte jag att jag skulle ha en "hamburgarmeny" istället för en navbar. 
+Jag hann även med att google lite om Hamburgarmenys. 
