@@ -1,0 +1,6 @@
+Dag 1: 
+Jag gjorde min "to do" list i github. Sedan när jag var klar med det så påbörjade arbetet på projektet. 
+Jag hann med att göra lite media queries på mobilhemsidan och jag gjorde mallen för min navbar. 
+
+Dag 2: Jag utvecklade min "to do" list lite grann. 
+
