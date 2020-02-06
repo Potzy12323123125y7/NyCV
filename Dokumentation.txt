@@ -4,3 +4,6 @@ Jag hann med att göra lite media queries på mobilhemsidan och jag gjorde mallen 
 
 Dag 2: Jag utvecklade min "to do" list lite grann. Sedan tänkte jag att jag skulle ha en "hamburgarmeny" istället för en navbar. 
 Jag hann även med att google lite om Hamburgarmenys. 
+
+Dag 3:Jag gjorde min Hamburgarmeny navbar, jag ändrade även färgerna på den så den passar in. Sedan påbörjade jag designen på hemsidan genom att göra divs och färglägga dem.
+Jag placerade även in självportträttet och loggan och gjorde så dem var på rätt plats på hemsidan. Nästa lektion ska jag lägga in text och förhoppnings vis göra färdigt min mobilhemsida.
