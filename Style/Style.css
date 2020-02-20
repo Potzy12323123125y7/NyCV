@@ -16,7 +16,7 @@
       }
 
       li {
-        font-family: Arial;
+        font-family: 'Lato', sans-serif;
         margin-top: 20px;
         margin-left: 20px;
         text-align: center;
@@ -28,6 +28,12 @@
       a {
           margin-left: 0.9em;
           text-decoration: none;
+      }
+      a:hover {
+        color: rgb(127,153, 255);
+      }
+      a:link, a:visited {
+        color: rgb(127,153, 255);
       }
       
       img.logga {
@@ -42,11 +48,11 @@
        text-decoration: none; 
       }
       body {
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Lato', sans-serif;
       }
       
       .mobile-container {
-        max-width: 480px;
+        max-width: 100%;
         margin: auto;
         background-color: rgb(255, 250, 226);
         color: white;
@@ -116,7 +122,7 @@
       h2 {
         color: black;
         font-size: 4vw;
-        margin: 5%;
+        margin: 10%;
       } 
       div.loggabar {
         width: 100%;
@@ -128,16 +134,21 @@
         margin-left: 10%;
         height: 2.8em;
         background-color: rgb(242, 255, 150);
-        padding-top: 6%;
+        padding-top: 5%;
       }
       h3 {
-        color: rgb(80,50, 120);
+        color: rgb(127,153, 255);
         font-size: 5vw;
-        margin-top: -16%;
+        margin: 0;
       }
       div.text {
-        height: 100%;
-        display: flex;
+        height: 45%;
+      }
+      a.contact {
+        margin-bottom: 60%;
+      }
+      div.tomrum {
+        height: 20px;
       }
     }    
 

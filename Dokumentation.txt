@@ -10,4 +10,6 @@ Jag placerade �ven in sj�lvporttr�ttet och loggan och gjorde s� dem var 
 
 Dag 4: Sjuk (hemma)
 
-Dag 5: 
+Dag 5: (2020-02-20) Idag har jag gjort klar min första mobilhemsida och det är nu bara att göra mobilhemsidan för education samt contact me. Jag har påbörjat education hemsidan genom att kopiera lite html från min "Home" hemsida.
+Det var inga större problem som jag stötte på idag utan det gick frammåt. Jag satte även in text i divs och färgade dem. Det som var svårast var nog att få texten och divsen på rätt plats.
+Nästa lektion ska jag göra klart mobilhemsidorna och samt påbörja desktop versionen. 
