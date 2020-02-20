@@ -1,9 +1,13 @@
 Dag 1: 
-Jag gjorde min "to do" list i github. Sedan när jag var klar med det så påbörjade arbetet på projektet. 
-Jag hann med att göra lite media queries på mobilhemsidan och jag gjorde mallen för min navbar. 
+Jag gjorde min "to do" list i github. Sedan nï¿½r jag var klar med det sï¿½ pï¿½bï¿½rjade arbetet pï¿½ projektet. 
+Jag hann med att gï¿½ra lite media queries pï¿½ mobilhemsidan och jag gjorde mallen fï¿½r min navbar. 
 
-Dag 2: Jag utvecklade min "to do" list lite grann. Sedan tänkte jag att jag skulle ha en "hamburgarmeny" istället för en navbar. 
-Jag hann även med att google lite om Hamburgarmenys. 
+Dag 2: Jag utvecklade min "to do" list lite grann. Sedan tï¿½nkte jag att jag skulle ha en "hamburgarmeny" istï¿½llet fï¿½r en navbar. 
+Jag hann ï¿½ven med att google lite om Hamburgarmenys. 
 
-Dag 3:Jag gjorde min Hamburgarmeny navbar, jag ändrade även färgerna på den så den passar in. Sedan påbörjade jag designen på hemsidan genom att göra divs och färglägga dem.
-Jag placerade även in självportträttet och loggan och gjorde så dem var på rätt plats på hemsidan. Nästa lektion ska jag lägga in text och förhoppnings vis göra färdigt min mobilhemsida.
+Dag 3:Jag gjorde min Hamburgarmeny navbar, jag ï¿½ndrade ï¿½ven fï¿½rgerna pï¿½ den sï¿½ den passar in. Sedan pï¿½bï¿½rjade jag designen pï¿½ hemsidan genom att gï¿½ra divs och fï¿½rglï¿½gga dem.
+Jag placerade ï¿½ven in sjï¿½lvporttrï¿½ttet och loggan och gjorde sï¿½ dem var pï¿½ rï¿½tt plats pï¿½ hemsidan. Nï¿½sta lektion ska jag lï¿½gga in text och fï¿½rhoppnings vis gï¿½ra fï¿½rdigt min mobilhemsida.
+
+Dag 4: Sjuk (hemma)
+
+Dag 5: 
