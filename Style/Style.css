@@ -71,7 +71,7 @@
       
       .topnav a {
         color: rgb(245, 255, 127);
-        padding: 14px 16px;
+        padding: 3.5% 4.3%;
         text-decoration: none;
         font-size: 17px;
         display: block;
@@ -103,7 +103,7 @@
       div.ruta {
         background-color:white;
         height: 26em;
-        width: 80%;
+        width: 78%;
         margin-left: 10%;
       }
       img.Självporträtt {
@@ -122,14 +122,16 @@
       h2 {
         color: black;
         font-size: 4vw;
-        margin: 10%;
+        margin-right: 10%;
+        margin-bottom: 0;
+        margin-left: 10%;
       } 
       div.loggabar {
         width: 100%;
         background-color: rgb(255, 250, 226);
       }
       div.contactme {
-        width: 80%;
+        width: 78%;
         text-align: center;
         margin-left: 10%;
         height: 2.8em;
@@ -143,6 +145,7 @@
       }
       div.text {
         height: 45%;
+        width: auto;
       }
       a.contact {
         margin-bottom: 60%;
@@ -152,8 +155,67 @@
       }
     }    
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
     main {
             width: 100%
     }
+    body {
+      background-color: rgb(245, 255, 127);
+      margin: 0;
+    }
+    div.loggabar {
+      width: 100%;
+      background-color: white;
+    
+    }
+
+    img.logga {
+      width: 12%;
+      height: 12%;
+      margin-top: 2%;
+      margin-left: 15%;
+}
+  img.Självporträtt {
+  height: 14%;
+  width: 14%;
+  border-radius: 50%;
+  margin-left: 35%;
+  margin-top: -20%;
+}
+
+div.topnav {
+background-color: rgb(255, 201, 199);
+padding: 1.7%;
+}
+a.active{
+  display: none;
+}
+
+a {
+  visibility:hidden;
+}
+div.contactme {
+  width: 20%;
+  text-align: center;
+  margin-left: 10%;
+  padding: 0.4%;
+  border-radius: 100px;
+  background-color: rgb(242, 255, 150);
+  margin-left: 70%;
+  margin-top: -49%;
+}
+h3 {
+  color: rgb(127,153, 255);
+  font-size: 2.8vw;
+  margin: 0;
+}
+a.contact {
+  visibility: visible;
+  text-decoration: none;
+}
+div.ruta {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 }
