@@ -13,3 +13,9 @@ Dag 4: Sjuk (hemma)
 Dag 5: (2020-02-20) Idag har jag gjort klar min första mobilhemsida och det är nu bara att göra mobilhemsidan för education samt contact me. Jag har påbörjat education hemsidan genom att kopiera lite html från min "Home" hemsida.
 Det var inga större problem som jag stötte på idag utan det gick frammåt. Jag satte även in text i divs och färgade dem. Det som var svårast var nog att få texten och divsen på rätt plats.
 Nästa lektion ska jag göra klart mobilhemsidorna och samt påbörja desktop versionen. 
+
+Dag 6 (2020-02-27)
+Mobilsidan (Förstasidan) Är så gott som klar. Det som är kvar är att göra desktop hemsidan (förstasidan). Jag behöver även göra alla de andra hemsidorna både för mobil samt desktop (Education, contact me)
+Så det är det jag ska arbeta med under lovet. Det som jag gjorde den här lektionen var att jag utvecklade och förbättrade min mobilhemsida och jag började även med headern och jag har påbörjat min desktophemsida.
+(Jag har gjort typ topbar) Jag ska försöka få texten på rätt plats och göra så att det ser lite bättre ut med typ width och ändra storleken på några få grejer. Sedan borde jag göra klart mina länkar.
+Sedan är det inte så mycket kvar förutom att göra de andra hemsidorna. Det tror inte jag kommer att bli något problem eftersom jag redan kommer att ha tillgång till css koden. (Jag behöber alltså bara koda i html typ).
