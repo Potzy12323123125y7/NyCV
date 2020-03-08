@@ -19,3 +19,9 @@ Mobilsidan (Förstasidan) Är så gott som klar. Det som är kvar är att göra 
 Så det är det jag ska arbeta med under lovet. Det som jag gjorde den här lektionen var att jag utvecklade och förbättrade min mobilhemsida och jag började även med headern och jag har påbörjat min desktophemsida.
 (Jag har gjort typ topbar) Jag ska försöka få texten på rätt plats och göra så att det ser lite bättre ut med typ width och ändra storleken på några få grejer. Sedan borde jag göra klart mina länkar.
 Sedan är det inte så mycket kvar förutom att göra de andra hemsidorna. Det tror inte jag kommer att bli något problem eftersom jag redan kommer att ha tillgång till css koden. (Jag behöber alltså bara koda i html typ).
+
+Dag 7 (2020-03-08)
+Jag ändrade lite element (css) och gjorde så att de såg bättre ut på hemsidan. Jag försökte även att lösa problemet med texten, allts att ha "Aboutme" och "Education" brevid varanda. 
+Det här försökte jag lösa med hjälp av margin-top(-(negativtvärde)) men det skets sig. Därför tänkte jag att jag istället ska göra en flexbox där jag placerar mina "aboutme" och "eduaction" texter. 
+Det här kommer göra att jag behöver använda mig av (display:none;) därför att jag kommer att ha olika text rutor som visar upp beroende på ifall man är på mobil/dator. Det här är innefektivt och därför ville jag helst undvika detta.
+Men eftersom att jag inte ser någon annan lösning så kanske jag även gör om mobilhemsidan lite (också göra flexbox på mobilhemsidan). Nästa gång tänker jag göra klar flexboxen. Förhoppningsvis ävem lösa de resterande problemen.  

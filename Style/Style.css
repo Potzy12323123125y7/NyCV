@@ -8,6 +8,9 @@
         margin: 0px;
         background-color: rgb(255, 201, 199);
       }
+      div.contactme2 {
+        display: none;
+      }
       
       ul {
         display: flex;
@@ -145,11 +148,19 @@
       }
       div.text {
         height: 45%;
+        width: 40%;
         width: auto;
       }
       a.contact {
         margin-bottom: 60%;
       }
+      div.text2 {
+        display: none;
+      }
+      div.Educ {
+        display: none;
+      }
+
     }    
 
 @media (min-width: 600px) {
@@ -164,20 +175,35 @@
       width: 100%;
       background-color: white;
     
+    }      
+    
+    div.Educ {
+        float: right;
+        margin-top: -17.8%;
+        width: 100%;
+      }
+      div.text {
+        width: 40%;
+      }
+
+    div.text2 {
+      float: right;
+      width: 40%;
+      margin-top: -13.8%;
     }
 
     img.logga {
-      width: 11%;
-      height: 11%;
+      width: 9%;
+      height: 9%;
       margin-top: 2%;
       margin-left: 10%;
 }
   img.Självporträtt {
-  height: 13%;
-  width: 13%;
+  height: 11%;
+  width: 11%;
   border-radius: 50%;
-  margin-left: 40%;
-  margin-top: -70%;
+  margin-top: -30%;
+  margin-bottom: 3.5%;
 }
 
 div.topnav {
@@ -204,13 +230,13 @@ div.contactme2 {
   border-radius: 100px;
   background-color: rgb(242, 255, 150);
   float: right;
-  margin-top: -8%;
+  margin-top: -6.6%;
   margin-right: 5%;
 }
 
 h3 {
   color: rgb(127,153, 255);
-  font-size: 2.8vw;
+  font-size: 2.2vw;
   margin: 0;
 }
 a.contact2 {
@@ -219,12 +245,12 @@ a.contact2 {
 }
 div.ruta {
     background-color: white;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 h1 {
   padding: 1%;
-  width: 30%;
+  width: 43%;
   text-align: center;
   margin: 0;
   margin-top: 5%;
@@ -232,7 +258,9 @@ h1 {
 }
 h2 {
   padding: 4%;
-  width: 30%;
   margin: 0;
+}
+div.bild {
+  text-align: center;
 }
 }
