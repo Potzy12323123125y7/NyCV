@@ -25,3 +25,6 @@ Jag ändrade lite element (css) och gjorde så att de såg bättre ut på hemsid
 Det här försökte jag lösa med hjälp av margin-top(-(negativtvärde)) men det skets sig. Därför tänkte jag att jag istället ska göra en flexbox där jag placerar mina "aboutme" och "eduaction" texter. 
 Det här kommer göra att jag behöver använda mig av (display:none;) därför att jag kommer att ha olika text rutor som visar upp beroende på ifall man är på mobil/dator. Det här är innefektivt och därför ville jag helst undvika detta.
 Men eftersom att jag inte ser någon annan lösning så kanske jag även gör om mobilhemsidan lite (också göra flexbox på mobilhemsidan). Nästa gång tänker jag göra klar flexboxen. Förhoppningsvis ävem lösa de resterande problemen.  
+
+Dag 8 (2020-03-08) före lektionen
+Jag har gjort lite med flexbox och nu ser det lite bättre ut. Det fungerar också helt ok men jag behöver göra så att det ser bättre ut typ.
