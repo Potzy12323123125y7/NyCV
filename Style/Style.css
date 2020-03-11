@@ -3,7 +3,7 @@
     main {
         width: 100%       
       }
-      
+
     body {
         margin: 0px;
         background-color: rgb(255, 201, 199);
@@ -11,7 +11,7 @@
       div.contactme2 {
         display: none;
       }
-      
+
       ul {
         display: flex;
         list-style-type: none;
@@ -19,15 +19,11 @@
       }
 
       li {
-        font-family: 'Lato', sans-serif;
         margin-top: 20px;
         margin-left: 20px;
         text-align: center;
       }
       
-      #title {
-        margin-right: 3em;
-      }
       a {
           margin-left: 0.9em;
           text-decoration: none;
@@ -52,6 +48,9 @@
       }
       body {
         font-family: 'Lato', sans-serif;
+      }
+      div.bild {
+        text-align: center;
       }
       
       .mobile-container {
@@ -80,7 +79,7 @@
         display: block;
       }
       
-      .topnav a.icon {
+      .icon {
         background: rgb(255, 115, 115);
         display: block;
         position: absolute;
@@ -97,7 +96,7 @@
         background-color: rgb(255, 147, 143);
         color: white;
       }
-      div.bakgrund {
+      .bakgrund {
         background-color: rgb(255, 201, 199);
         height: 100%;
         padding-top: 10%;
@@ -113,7 +112,6 @@
       height: 40%;
       width: 40%;
       border-radius: 50%;
-      margin-left: 32%;
       margin-top: 10%;
       }
       h1 {
@@ -132,11 +130,10 @@
       h2 {
         color: black;
         font-size: 4vw;
-        margin-right: 10%;
+        margin-right: 5%;
         margin-bottom: 0;
-        margin-left: 10%;
+        margin-left: 5%;
         padding: 8%;
-        text-align: justify;
       } 
       div.loggabar {
         width: 100%;
@@ -163,6 +160,7 @@
       }
       a.contact {
         margin-bottom: 60%;
+        margin-left: 0;
       }
       div.text2 {
         display: none;
@@ -183,8 +181,9 @@
             width: 100%
     }
     body {
-      background-color: rgb(245, 255, 127);
+      background-color: rgb(255, 201, 199);
       margin: 0;
+      font-family: 'Lato', sans-serif;
     }
     div.loggabar {
       width: 100%;
@@ -226,7 +225,7 @@
 }
 
 div.topnav {
-background-color: rgb(255, 201, 199);
+background-color: rgb(255, 147, 143);
 padding: 1.7%;
 }
 a.active{
@@ -261,6 +260,7 @@ h3 {
 a.contact2 {
   visibility: visible;
   text-decoration: none;
+  color: rgb(127,153, 255);
 }
 div.ruta {
     background-color: white;
@@ -337,5 +337,16 @@ div.flexbox {
     margin-left: 5%;
     margin-right: 5%;
     border-bottom: 1px solid rgb(255, 115, 115);
+  }
+  div.Edu2 {
+    width: 100%;
+  }
+  div.Edu2text {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+  }
+  div.Edutext2 {
+    width: 100%;
   }
 }

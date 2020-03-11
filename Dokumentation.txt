@@ -32,3 +32,7 @@ Jag har gjort lite med flexbox och nu ser det lite bättre ut. Det fungerar ocks
 Dag 8 (2020-03-09) 14:05
 Jag har gjort (typ) gjort klart main hemsidan. Jag ska endast validera koden och kanske fixa till några få saker så att det ska bli bättre användarvänlighet.
 Jag tror också att jag ska prova lite annorlunda färger. 
+
+Dag 9 (2020-03-11) 
+Jag har gjort klart css och html för mobil och desktop. Jag har även Validerat och det var inte så mycket som var fel. När det gällde html så var egentligen inte så mycket fel. Det enda som de klagade på var att jag använde style i html och de gillade uppskattades inte.
+När det gällde cssen så var det inga fel heller utan bara varningar. Men jag brydde mig inte så mycket om varningarna. Det var typ att jag inte skulle använda h2 mer än en gång eller nått liknande. Även att man inte skulle använda Id utan istället class.
